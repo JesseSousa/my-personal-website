@@ -23,6 +23,5 @@ import Wrapper from './components/Wrapper.vue'
 
 body {
   font-family: "Lato", serif;
-  /* font-family: Helvetica; */
 }
 </style>
