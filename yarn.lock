@@ -6,26 +6,6 @@
   version "7.17.7"
   resolved "https://registry.npmjs.org/@babel/parser/-/parser-7.17.7.tgz"
 
-"@fortawesome/fontawesome-common-types@6.1.0":
-  version "6.1.0"
-  resolved "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.0.tgz"
-
-"@fortawesome/fontawesome-svg-core@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.1.0.tgz"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "6.1.0"
-
-"@fortawesome/free-solid-svg-icons@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.1.0.tgz"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "6.1.0"
-
-"@fortawesome/vue-fontawesome@^3.0.0-5":
-  version "3.0.0-5"
-  resolved "https://registry.npmjs.org/@fortawesome/vue-fontawesome/-/vue-fontawesome-3.0.0-5.tgz"
-
 "@vitejs/plugin-vue@^2.2.0":
   version "2.2.4"
   resolved "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-2.2.4.tgz"
