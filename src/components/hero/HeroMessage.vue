@@ -1,12 +1,15 @@
 <template>
   <div>
     <h1>Jessé Sousa</h1>
-    <p>Full-Stack Developer</p>
+    <p class="job-title">Front-End Developer</p>
     <div class="icons">
       <a href="https://github.com/JesseSousa" target="_blank">
         <i class="fa-brands fa-github"></i>
       </a>
-      <a href="https://www.linkedin.com/in/jess%C3%A9-sousa-desenvolvendor/" target="_blank">
+      <a
+        href="https://www.linkedin.com/in/jess%C3%A9-sousa-desenvolvendor/"
+        target="_blank"
+      >
         <i class="fa-brands fa-linkedin"></i>
       </a>
       <a href="https://dev.to/jessesousa" target="_blank">
@@ -29,7 +32,7 @@ h1 {
   text-shadow: 6px 6px 8px #222;
 }
 
-p {
+p.job-title {
   font-size: 1.5rem;
 }
 
