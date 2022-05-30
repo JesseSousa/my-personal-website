@@ -2,6 +2,7 @@
   <div>
     <h1>Jessé Sousa</h1>
     <p class="job-title">Front-End Developer</p>
+    <p class="email">jesse@jessesousa.com</p>
     <div class="icons">
       <a href="https://github.com/JesseSousa" target="_blank">
         <i class="fa-brands fa-github"></i>
@@ -34,6 +35,11 @@ h1 {
 
 p.job-title {
   font-size: 1.5rem;
+}
+
+p.email {
+  font-size: 1.15rem;
+  color: #ccc;
 }
 
 .icons {
