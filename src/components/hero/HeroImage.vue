@@ -8,8 +8,7 @@
   </div>
 </template>
 
-<script setup>
-</script>
+<script setup></script>
 
 <style scoped>
 .wrapper {
@@ -18,7 +17,7 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url(../assets/background.jpg);
+  background-image: url(../../assets/background.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
