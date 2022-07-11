@@ -3,8 +3,8 @@
 
 
 "@babel/parser@^7.16.4":
-  version "7.18.5"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.18.5.tgz#337062363436a893a2d22faa60be5bb37091c83c"
+  version "7.18.8"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.18.8.tgz#822146080ac9c62dac0823bb3489622e0bc1cbdf"
 
 "@vitejs/plugin-vue@^2.3.3":
   version "2.3.3"
