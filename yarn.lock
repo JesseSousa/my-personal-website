@@ -458,8 +458,8 @@ pkg-dir@^4.1.0:
     find-up "^4.0.0"
 
 postcss@^8.1.10, postcss@^8.4.13:
-  version "8.4.14"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.14.tgz#ee9274d5622b4858c1007a74d76e42e56fd21caf"
+  version "8.4.20"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.20.tgz#64c52f509644cecad8567e949f4081d98349dc56"
   dependencies:
     nanoid "^3.3.4"
     picocolors "^1.0.0"
